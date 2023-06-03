@@ -72,7 +72,6 @@ SERVER :
 
 ![image](https://github.com/Sindhuja9585/EX-2/assets/122860624/c0713089-f946-4c8f-ab26-a990b4689712)
 
-
 RESULT :
 
 Thus, python program to perform stop and wait protocol was successfully executed.
