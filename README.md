@@ -2,10 +2,6 @@
 
 DATE:
 
-Developed by : Sindhuja P
-
-Register Number : 212222220047
-
 AIM :
 
 To write a python program to perform stop and wait protocol
